@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e846efa1-5517-400e-925d-87a42c52bac7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ToDo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo.js" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +19,8 @@
           <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/App.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="206">
-                  <caret line="45" column="42" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="42" />
-                  <folding>
-                    <element signature="e#0#26#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="38">
+                  <caret line="2" column="94" selection-start-line="2" selection-start-column="94" selection-end-line="2" selection-end-column="94" />
                 </state>
               </provider>
             </entry>
@@ -34,7 +29,7 @@
             <entry file="file://$PROJECT_DIR$/ToDo.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="726">
-                  <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+                  <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
                 </state>
               </provider>
             </entry>
@@ -46,8 +41,8 @@
           <file leaf-file-name="ToDo.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ToDo.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1574">
-                  <caret line="83" column="29" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="29" />
+                <state relative-caret-position="624">
+                  <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
                   <folding>
                     <element signature="e#0#39#0" expanded="true" />
                   </folding>
@@ -70,6 +65,7 @@
     <findStrings>
       <find>uuidv1</find>
       <find>_finishEditing</find>
+      <find>_loadToDos</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -252,12 +248,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524446096367</updated>
       <workItem from="1524446097941" duration="599000" />
-      <workItem from="1524483497080" duration="1298000" />
+      <workItem from="1524483497080" duration="3079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11258000" />
+    <option name="totallyTimeSpent" value="13039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="15" width="1473" height="1007" extended-state="0" />
@@ -301,9 +297,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
           <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -318,13 +311,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ToDo.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -337,55 +324,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="45" column="42" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="38">
+          <caret line="2" column="94" selection-start-line="2" selection-start-column="94" selection-end-line="2" selection-end-column="94" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ToDo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1574">
-          <caret line="83" column="29" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="29" />
+        <state relative-caret-position="624">
+          <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
